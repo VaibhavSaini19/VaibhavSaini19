@@ -1,6 +1,22 @@
-### Hi there 👋, I'm Vaibhav
 
-A highly motivated, enthusiastic and passionate programmer with excellent academic records. Experienced in Full stack Web development and Machine Learning with a strong hand in competitive programming. Skilled in Python, JavaScript, MySQL, MongoDB, Java and UI/UX. IT undergraduate (2017-2021), MIT AOE. 
+<h1 align='center'>
+  Hi there 👋 I'm Vaibhav 👨‍💻
+</h1>
+
+<p align='center'>
+  A highly motivated, enthusiastic and passionate programmer with excellent academic records. Experienced in Full stack Web development and Machine Learning with a strong hand in competitive programming. Skilled in Python, JavaScript, MySQL, MongoDB, Java and UI/UX. IT undergraduate (2017-2021), MIT AOE from Pune, India. 
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/sainivaibhav19/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/VaibhavSaini19/VaibhavSaini19"></a>
+</p>
+
 <!--
 **VaibhavSaini19/VaibhavSaini19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +36,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [BootBlox](https://vaibhavsaini19.github.io/BootBlox/)
 - 🌱 I’m currently learning a lot of things 🤣
 - 👯 I’m looking to collaborate on open source projects 🚀
-
+- 📫 How to reach me: <a href='mailto:sainivaibhav19@gmail.com'>sainivaibhav19@gmail.com</a>
 ---
 
 ### Languages and Tools I use:
