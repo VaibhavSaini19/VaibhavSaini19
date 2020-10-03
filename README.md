@@ -1,7 +1,4 @@
-
-<h1 align='center'>
-  Hi there 👋 I'm Vaibhav 👨‍💻
-</h1>
+<img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/hero.svg" alt="Hero image">
 
 <p align='center'>
   A highly motivated, enthusiastic and passionate programmer with excellent academic records. Experienced in Full stack Web development and Machine Learning with a strong hand in competitive programming. Skilled in Python, JavaScript, MySQL, MongoDB, Java and UI/UX. IT undergraduate (2017-2021), MIT AOE from Pune, India. 
@@ -53,3 +50,4 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Vaibhav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VaibhavSaini19&show_icons=true&hide_border=true&count_private=true" />
 
+<img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/footer.svg" alt="Footer image">
