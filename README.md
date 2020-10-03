@@ -6,7 +6,13 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/sainivaibhav19/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/linkedin.svg" alt="Linkedin image">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/vaibhav19saini">
+    <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/codechef.svg" alt="Codechef image">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/vaibhav19saini">
+    <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/hackerrank.svg" alt="Hackerrank image">
   </a>&nbsp;&nbsp;
 </p>
 
