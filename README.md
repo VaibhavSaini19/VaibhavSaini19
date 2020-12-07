@@ -40,9 +40,10 @@ Here are some ideas to get you started:
 <br />
 
 - 🔭 I’m currently working on [BootBlox](https://vaibhavsaini19.github.io/BootBlox/)
-- 🌱 I’m currently learning a lot of things 🤣
+- 🌱 I’m currently learning React Native 👨🏻‍💻
 - 👯 I’m looking to collaborate on open source projects 🚀
 - 📫 How to reach me: <a href='mailto:sainivaibhav19@gmail.com'>sainivaibhav19@gmail.com</a>
+- ⚡ Fun fact: I'm a speedcuber 😎
 ---
 
 ### Languages and Tools I use:
