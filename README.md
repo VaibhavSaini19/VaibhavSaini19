@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/linkedin.svg" alt="Linkedin image">
   </a>&nbsp;&nbsp;
   <a href="https://vaibhavsaini.info">
-    <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/portfolio.svg" alt="Linkedin image">
+    <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/portfolio.svg" alt="Portfolio image">
   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/vaibhav19saini">
     <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/codechef.svg" alt="Codechef image">
